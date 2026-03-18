@@ -13912,7 +13912,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "a57eafe3-e4d2-467e-a166-7dc1085d6710")
 		(property "Reference" "SW9"
 			(at 149.86 36.83 0)
