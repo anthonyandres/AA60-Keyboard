@@ -5242,7 +5242,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 332.74 121.92 0)
 			(effects
 				(font
@@ -5574,7 +5574,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 271.78 88.9 0)
 			(effects
 				(font
@@ -5642,7 +5642,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1.25U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1.25U"
 			(at 119.38 121.92 0)
 			(effects
 				(font
@@ -5798,7 +5798,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1.25U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1.25U"
 			(at 58.42 121.92 0)
 			(effects
 				(font
@@ -5954,7 +5954,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 271.78 55.88 0)
 			(effects
 				(font
@@ -6022,7 +6022,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 332.74 39.37 0)
 			(effects
 				(font
@@ -6090,7 +6090,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 515.62 39.37 0)
 			(effects
 				(font
@@ -6334,7 +6334,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 485.14 55.88 0)
 			(effects
 				(font
@@ -6490,7 +6490,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 88.9 105.41 0)
 			(effects
 				(font
@@ -6734,7 +6734,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1.25U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1.25U"
 			(at 88.9 121.92 0)
 			(effects
 				(font
@@ -6802,7 +6802,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 363.22 121.92 0)
 			(effects
 				(font
@@ -6870,7 +6870,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 363.22 88.9 0)
 			(effects
 				(font
@@ -7026,7 +7026,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 241.3 72.39 0)
 			(effects
 				(font
@@ -7182,7 +7182,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 454.66 39.37 0)
 			(effects
 				(font
@@ -7250,7 +7250,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-2.25U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-2.25U"
 			(at 58.42 105.41 0)
 			(effects
 				(font
@@ -7582,7 +7582,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 485.14 72.39 0)
 			(effects
 				(font
@@ -7738,7 +7738,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 210.82 39.37 0)
 			(effects
 				(font
@@ -7894,7 +7894,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 271.78 39.37 0)
 			(effects
 				(font
@@ -8050,7 +8050,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 210.82 105.41 0)
 			(effects
 				(font
@@ -8206,7 +8206,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 58.42 39.37 0)
 			(effects
 				(font
@@ -8714,7 +8714,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 332.74 55.88 0)
 			(effects
 				(font
@@ -8782,7 +8782,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 363.22 105.41 0)
 			(effects
 				(font
@@ -9026,7 +9026,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 302.26 88.9 0)
 			(effects
 				(font
@@ -9182,7 +9182,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 210.82 55.88 0)
 			(effects
 				(font
@@ -9250,7 +9250,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 515.62 55.88 0)
 			(effects
 				(font
@@ -9406,7 +9406,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 302.26 121.92 0)
 			(effects
 				(font
@@ -9562,7 +9562,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 302.26 39.37 0)
 			(effects
 				(font
@@ -9630,7 +9630,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1.25U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1.25U"
 			(at 210.82 121.92 0)
 			(effects
 				(font
@@ -9786,7 +9786,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 424.18 105.41 0)
 			(effects
 				(font
@@ -9854,7 +9854,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 424.18 55.88 0)
 			(effects
 				(font
@@ -9922,7 +9922,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 302.26 72.39 0)
 			(effects
 				(font
@@ -9990,7 +9990,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 332.74 72.39 0)
 			(effects
 				(font
@@ -10234,7 +10234,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1.25U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1.25U"
 			(at 180.34 121.92 0)
 			(effects
 				(font
@@ -10478,7 +10478,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 180.34 72.39 0)
 			(effects
 				(font
@@ -10898,7 +10898,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1.5U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1.5U"
 			(at 58.42 72.39 0)
 			(effects
 				(font
@@ -11054,7 +11054,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 149.86 72.39 0)
 			(effects
 				(font
@@ -11122,7 +11122,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 88.9 39.37 0)
 			(effects
 				(font
@@ -11718,7 +11718,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 180.34 55.88 0)
 			(effects
 				(font
@@ -11786,7 +11786,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 180.34 39.37 0)
 			(effects
 				(font
@@ -11854,7 +11854,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 149.86 88.9 0)
 			(effects
 				(font
@@ -12010,7 +12010,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1.25U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1.25U"
 			(at 271.78 121.92 0)
 			(effects
 				(font
@@ -12078,7 +12078,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 88.9 72.39 0)
 			(effects
 				(font
@@ -12322,7 +12322,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-2.75U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-2.75U"
 			(at 393.7 105.41 0)
 			(effects
 				(font
@@ -12478,7 +12478,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 332.74 88.9 0)
 			(effects
 				(font
@@ -12546,7 +12546,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-6.25U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-6.25U"
 			(at 149.86 121.92 0)
 			(effects
 				(font
@@ -12702,7 +12702,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-2U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-2U"
 			(at 454.66 55.88 0)
 			(effects
 				(font
@@ -12858,7 +12858,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 363.22 72.39 0)
 			(effects
 				(font
@@ -13014,7 +13014,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 58.42 55.88 0)
 			(effects
 				(font
@@ -13082,7 +13082,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 241.3 55.88 0)
 			(effects
 				(font
@@ -13238,7 +13238,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 241.3 88.9 0)
 			(effects
 				(font
@@ -13306,7 +13306,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1.75U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1.75U"
 			(at 58.42 88.9 0)
 			(effects
 				(font
@@ -13462,7 +13462,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 119.38 72.39 0)
 			(effects
 				(font
@@ -13530,7 +13530,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 363.22 55.88 0)
 			(effects
 				(font
@@ -13598,7 +13598,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 180.34 105.41 0)
 			(effects
 				(font
@@ -13929,7 +13929,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 149.86 39.37 0)
 			(effects
 				(font
@@ -14085,7 +14085,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 424.18 72.39 0)
 			(effects
 				(font
@@ -14241,7 +14241,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 332.74 105.41 0)
 			(effects
 				(font
@@ -14397,7 +14397,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 88.9 88.9 0)
 			(effects
 				(font
@@ -14641,7 +14641,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 302.26 105.41 0)
 			(effects
 				(font
@@ -14709,7 +14709,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 271.78 72.39 0)
 			(effects
 				(font
@@ -14865,7 +14865,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 393.7 88.9 0)
 			(effects
 				(font
@@ -15021,7 +15021,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 393.7 55.88 0)
 			(effects
 				(font
@@ -15441,7 +15441,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 149.86 55.88 0)
 			(effects
 				(font
@@ -15685,7 +15685,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 485.14 39.37 0)
 			(effects
 				(font
@@ -15929,7 +15929,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 119.38 88.9 0)
 			(effects
 				(font
@@ -15997,7 +15997,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 119.38 39.37 0)
 			(effects
 				(font
@@ -16065,7 +16065,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 363.22 39.37 0)
 			(effects
 				(font
@@ -16133,7 +16133,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 546.1 72.39 0)
 			(effects
 				(font
@@ -16201,7 +16201,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 393.7 72.39 0)
 			(effects
 				(font
@@ -16269,7 +16269,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 424.18 39.37 0)
 			(effects
 				(font
@@ -16337,7 +16337,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 546.1 55.88 0)
 			(effects
 				(font
@@ -16405,7 +16405,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 88.9 55.88 0)
 			(effects
 				(font
@@ -16649,7 +16649,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1.5U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1.5U"
 			(at 454.66 72.39 0)
 			(effects
 				(font
@@ -16981,7 +16981,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 241.3 39.37 0)
 			(effects
 				(font
@@ -17049,7 +17049,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 241.3 105.41 0)
 			(effects
 				(font
@@ -17205,7 +17205,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 149.86 105.41 0)
 			(effects
 				(font
@@ -17361,7 +17361,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 119.38 55.88 0)
 			(effects
 				(font
@@ -17429,7 +17429,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 210.82 88.9 0)
 			(effects
 				(font
@@ -17497,7 +17497,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 271.78 105.41 0)
 			(effects
 				(font
@@ -17565,7 +17565,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 515.62 72.39 0)
 			(effects
 				(font
@@ -17633,7 +17633,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 119.38 105.41 0)
 			(effects
 				(font
@@ -17701,7 +17701,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1.25U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1.25U"
 			(at 241.3 121.92 0)
 			(effects
 				(font
@@ -17857,7 +17857,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 302.26 55.88 0)
 			(effects
 				(font
@@ -17925,7 +17925,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 393.7 39.37 0)
 			(effects
 				(font
@@ -18081,7 +18081,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 180.34 88.9 0)
 			(effects
 				(font
@@ -18501,7 +18501,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-2.25U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-2.25U"
 			(at 424.18 88.9 0)
 			(effects
 				(font
@@ -18745,7 +18745,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
 			(at 210.82 72.39 0)
 			(effects
 				(font
