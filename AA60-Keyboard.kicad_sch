@@ -4446,6 +4446,16 @@
 	)
 	(wire
 		(pts
+			(xy 160.02 99.06) (xy 167.64 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7279b366-6f29-4e97-bbe0-ae58e28f134c")
+	)
+	(wire
+		(pts
 			(xy 50.8 58.42) (xy 58.42 58.42)
 		)
 		(stroke
@@ -4553,6 +4563,16 @@
 			(type default)
 		)
 		(uuid "ae9b0d8e-63d9-47cb-ade3-46337ef45f30")
+	)
+	(wire
+		(pts
+			(xy 160.02 93.98) (xy 167.64 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b363af7a-bbfa-4caa-a91c-3d88c7fe93f0")
 	)
 	(wire
 		(pts
@@ -4753,6 +4773,66 @@
 			(type default)
 		)
 		(uuid "fcf87116-9df8-46fe-8581-e77a6909952a")
+	)
+	(label "CC1"
+		(at 193.04 93.98 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "218ac96b-0c0d-4106-b812-2dfd747364c8")
+	)
+	(label "CC1"
+		(at 133.35 125.73 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "4992544a-e54d-4baa-a4f6-94cb6fe0e87b")
+	)
+	(label "USB_DP"
+		(at 160.02 99.06 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "9f99f4fb-740c-44b9-9683-045832eb3c70")
+	)
+	(label "USB_DM"
+		(at 160.02 93.98 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "cf42f5f4-e46a-48d5-8b5d-f8c861dec925")
+	)
+	(label "CC2"
+		(at 193.04 99.06 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "d475f799-a5ad-4a43-9861-fb1e5042e1a7")
+	)
+	(label "CC2"
+		(at 133.35 128.27 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "dec1b1ec-f18c-4b1e-98a7-6cf7d85eec3f")
 	)
 	(global_label "nRST"
 		(shape input)
@@ -5817,6 +5897,7 @@
 	(symbol
 		(lib_id "Device:C")
 		(at 22.86 29.21 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5824,7 +5905,7 @@
 		(dnp no)
 		(uuid "7ffa906e-ace2-4266-8973-8d090b99f4d1")
 		(property "Reference" "C3"
-			(at 26.67 27.9399 0)
+			(at 19.05 27.9399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5833,7 +5914,7 @@
 			)
 		)
 		(property "Value" "1uF"
-			(at 26.67 30.4799 0)
+			(at 19.05 30.4799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5842,7 +5923,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
-			(at 23.8252 33.02 0)
+			(at 21.8948 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
